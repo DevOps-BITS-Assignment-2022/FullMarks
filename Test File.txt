@@ -6,4 +6,8 @@ Oct 25 at 5pm ist
 
 Modified file to see if it reflects in git status
 
+Modified the test file to merge conflicts by ShjoGit
+modified at 6:45 pm ist
+
 File modification by 2022ht66045shriraksha
+Demonstration of Conflict Resolution successful :) 
