@@ -1,0 +1,13 @@
+Test File for assignment
+created on Oct 21st at 1pm IST
+
+Collab demo by feature_2022ht66045shriraksha
+Oct 25 at 5pm ist
+
+Modified file to see if it reflects in git status
+
+Modified the test file to merge conflicts by ShjoGit
+modified at 6:45 pm ist
+
+File modification by 2022ht66045shriraksha
+Demonstration of Conflict Resolution successful :) 
