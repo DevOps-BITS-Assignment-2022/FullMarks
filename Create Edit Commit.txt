@@ -1,0 +1,5 @@
+Created a file on github.com for demo
+Edited this file on github.com for demo
+This is followed by a commit on github.com for demo
+
+The same will be demo'ed on git bash once local repo is setup in the further stages in the assignment. 
